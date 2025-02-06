@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo!
 
-<!--
-**luizfernando-unifei/luizfernando-unifei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+🎓 **Formação e Experiência**
+- Analista de TI na **Universidade Federal de Itajubá (UNIFEI)**
+  - Desenvolvimento e sustentação de sistema de gestão administrativo baseado em **Java EE**.
+  - IDEs principais: **Eclipse** e **VS Code**.
+- Ex-coordenador dos cursos de **Sistemas de Informação (SI) e Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário de Itajubá (**FEPI**).
+- Professor de graduação em disciplinas de SI e ADS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Interesses
+- **Java EE, JSP, Servlets, JSF, Spring Boot, React, Python, Android**
+- **Banco de Dados: PostgreSQL**
+- **Gerenciamento de dependências: Maven, Gradle**
+- Interesse em explorar modernização de aplicações legadas e otimização do ecossistema **Java EE**.
+
+## 📚 Estudos e Projetos
+- Explorando tecnologias antigas para manutenção e suporte de sistemas legados.
+- Avaliação de treinamentos para otimização do uso de **Java** em aplicações corporativas.
+
+📫 **Contato**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-nunes-04185b25)
+- ✉️ Email: luizfernandolfn@unifei.edu.br
